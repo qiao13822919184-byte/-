@@ -1,0 +1,5 @@
+{
+  "name": "Data Analysis & BCG Matrix Generator",
+  "description": "Upload trade data to generate export trends and interactive BCG matrix charts.",
+  "requestFramePermissions": []
+}
